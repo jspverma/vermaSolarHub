@@ -1,0 +1,1 @@
+this is test text file to demonstrate stitic files. this folder is used to serve data publically to the client. we should not write any confidential data here.
